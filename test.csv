@@ -1,18 +1,31 @@
 date,amount,merchant,category,notes
-2042-10-08T19:33:59,1.0,test,transport,note here
-2011-09-01T00:23:12,1000000000000000.0,test2,utilities,note here2
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
-2000-01-01T01:11:11,0.0,filler,utilities,filler
+2026-01-11T08:13:27,6.75,Bayview Coffee,transport,Americano + danish
+2026-01-26T17:52:41,89.40,Golden Market,groceries,Weekly groceries
+2026-02-06T12:34:18,1450.00,Maple Court Apartments,rent,Monthly rent
+2026-02-18T09:47:05,23.10,Metro Snacks,transport,Bus fare top-up
+2026-03-03T19:22:36,52.60,City Power & Light,utilities,Electric bill
+2026-03-14T08:06:59,14.25,Sunrise Market,transport,Quick breakfast
+2026-03-26T15:40:12,33.85,NetStream Broadband,utilities,Internet payment
+2026-04-08T11:18:03,24.90,Harbor Pharmacy,health,Cold medicine
+2026-04-20T20:03:41,78.25,Oak & Olive,dining,Dinner for two
+2026-05-01T13:29:55,9.60,Bus Stop News,transport,Newspaper + gum
+2026-05-07T07:44:30,17.35,Berry Bean Cafe,transport,Latte + pastry
+2026-05-18T16:11:27,210.00,Rainwater Plumbing,utilities,Plumbing service
+2026-05-29T10:26:44,64.10,Green Grocer,groceries,Fresh produce run
+2026-06-02T18:59:12,12.49,QuickMart Express,transport,Packaged snack
+2026-06-09T08:58:05,41.80,City Water Works,utilities,Water usage
+2026-06-15T21:12:47,36.55,Campus Books & More,education,Study supplies
+2026-06-21T14:19:58,120.15,Sunset dining,dining,Friends dinner
+2026-06-27T07:31:22,27.90,Northside Grocers,groceries,Weekly groceries
+2026-07-03T16:44:39,55.75,Riverline Apartments,rent,rent payment
+2026-07-08T09:07:16,18.60,Harbor Pharmacy,health,Allergy tablets
+2026-07-10T12:22:49,44.25,QuickMart Express,transport,Convenience items
+2026-07-14T19:40:05,29.99,Arcade Corner,entertainment,Arcade tokens
+2026-07-18T08:25:33,67.40,Greenway Delivery,transport,Taxi + tip
+2026-07-20T17:10:27,15.99,Metro Snacks,transport,Lunch on the go
+2026-07-22T13:52:06,249.99,City Electronics,shopping,Headphones purchase
+2026-07-24T20:08:14,38.70,Skyline Theater,entertainment,Movie tickets
+2026-07-25T09:33:41,73.15,Goldleaf Pharmacy,health,Prescription refill
+2026-07-26T11:05:26,26.45,Bayview Coffee,transport,Cold brew + cookie
+2026-07-26T15:44:09,8.25,Bus Stop News,transport,Journal + snack
+2026-07-26T18:20:37,61.00,Urban Fitness,health,Gym day pass

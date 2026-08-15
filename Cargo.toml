@@ -4,11 +4,15 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-eframe = "0.35.0"
-egui = "0.35.0"
+egui= "0.36.1"
+eframe = "0.36.1"
+egui-elegance = "0.16.0"
 rfd = "0.17.2"
 csv = "1.4.0"
 serde = { version = "1.0.228", features = ["derive"] }
 chrono = { version = "0.4", features = ["serde"] }
-egui-elegance = "0.14.0"
 uuid = { version = "1", features = ["v4"] }
+egui_timepicker = { path = "egui_timepicker_fork" }
+egui_extras = { version = "0.36.1", features = ["datepicker"] }
+jiff = "0.2.35"
+regex = "1.13.1"
