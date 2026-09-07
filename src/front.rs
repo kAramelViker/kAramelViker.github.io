@@ -521,6 +521,7 @@ impl App {
         ui.separator();
 
         if ui.button("Save").clicked() {
+			if self.picked_path == None { return; }
             let _ = write_data(self.picked_path.clone(), self.storage.get_all());
         }
 
@@ -658,20 +659,6 @@ impl App {
 
 						donut_pie(ui, center, radius, thickness, &self.overview_map,
 						          format!("Total spent \n {:.2}", total));
-					});
-
-					Card::new().padding(5).heading("Quadrant B").show(ui, |ui| {
-						ui.label("B");
-					});
-
-					ui.end_row();
-
-					Card::new().padding(5).heading("Quadrant C").show(ui, |ui| {
-						ui.label("C");
-					});
-
-					Card::new().padding(5).heading("Quadrant D").show(ui, |ui| {
-						ui.label("D");
 					});
 					ui.end_row();
 				});
